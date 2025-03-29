@@ -18,7 +18,7 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,html,css,js,ts" />
 </p>
 
 ### 🏗️ Backend  
@@ -26,14 +26,25 @@
   <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet" />
 </p>
 
-### 🗄️ Database  
+### 🌍 API Development  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  - 🔹 RESTful API  
+  - 🔹 GraphQL API  
+</p>
+
+### 🗄️ Database & Caching  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+### ☁️ Cloud & Storage  
+<p>
+  <img src="https://skillicons.dev/icons?i=cloudinary" />
 </p>
 
 ### 🛠️ Libraries & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=sequelize,slonik,docker,git" />
+  <img src="https://skillicons.dev/icons?i=sequelize,docker,git" />
 </p>
 
 ---
@@ -48,7 +59,7 @@
 
 ## 📫 Connect with Me  
 - GitHub: [dvkscript](https://github.com/dvkscript)  
-- Email: dvkscripts@gmail.com 
+- Email: dvkscripts@gmail.com
 
 ---
 
