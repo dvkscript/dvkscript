@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me  
 - GitHub: [dvkscript](https://github.com/dvkscript)  
-- Email: dvkscript@gmail.com  
+- Email: dvkscripts@gmail.com  
 
 ---
 
