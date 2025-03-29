@@ -27,10 +27,8 @@
 </p>
 
 ### 🌍 API Development  
-<p>
-  - 🔹 RESTful API  
-  - 🔹 GraphQL API  
-</p>
+- 🔹 RESTful API  
+- 🔹 GraphQL API  
 
 ### 🗄️ Database & Caching  
 <p>
@@ -38,9 +36,9 @@
 </p>
 
 ### ☁️ Cloud & Storage  
-<p>
-  <img src="https://skillicons.dev/icons?i=cloudinary" />
-</p>
+- 🔹 Cloudinary  
+- 🔹 AWS S3  
+- 🔹 Firebase Storage  
 
 ### 🛠️ Libraries & Tools  
 <p>
@@ -59,7 +57,7 @@
 
 ## 📫 Connect with Me  
 - GitHub: [dvkscript](https://github.com/dvkscript)  
-- Email: dvkscripts@gmail.com
+- Email: your.email@example.com  
 
 ---
 
