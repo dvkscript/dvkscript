@@ -6,22 +6,39 @@
 
 ---
 
-### 💻 About Me  
-- 🔭 I’m currently working with **NestJS, Next.js, Express, Sequelize, MySQL, PostgreSQL, TypeScript, JavaScript, HTML, CSS**  
+## 💻 About Me  
+- 🔭 I’m currently working with **Fullstack Web Development**  
 - 🌱 Always learning new technologies to enhance my skills  
 - 💡 Passionate about **Backend Architecture, API Development, and System Design**  
-- 🔗 Open to collaborations on interesting **open-source projects**  
+- 🔗 Open to collaborations on **Open-Source & Innovative Projects**  
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,express,sequelize,mysql,postgres,typescript,javascript,html,css,docker,git" />
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,nuxt,html,css,js,ts" />
+</p>
+
+### 🏗️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet" />
+</p>
+
+### 🗄️ Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🛠️ Libraries & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=sequelize,slonik,docker,git" />
 </p>
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dvkscript&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvkscript&theme=radical" />
@@ -29,9 +46,9 @@
 
 ---
 
-### 📫 Connect with Me  
+## 📫 Connect with Me  
 - GitHub: [dvkscript](https://github.com/dvkscript)  
-- Email: dvkscripts@gmail.com  
+- Email: dvkscripts@gmail.com 
 
 ---
 
